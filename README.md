@@ -8,6 +8,6 @@ The rssManager.rb file is our custom Library/API to extract and parse data from 
 The Main.rb file is the entry point of our RSS Reader Application. 
 (An entry point is where the first instructions of a program are executed.)
 
-To run the program 
-use command
+To run the program,
+use command:
 ruby main.rb
