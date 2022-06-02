@@ -10,7 +10,7 @@ The Main.rb file is the entry point of our RSS Reader Application.
 
 
 To run the program,
-Download all the files and store them in a file(f)
-open terminal and (do cd copy the path of the file(f))
+Download all the files and store them in a file(f).
+open terminal and (do cd copy the path of the file(f)).
 use command:
 ruby main.rb
