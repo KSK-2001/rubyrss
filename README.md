@@ -9,7 +9,7 @@ The main.rb file is the entry point of our RSS Reader Application.
 (An entry point is where the first instructions of a program are executed.)
 
 
-To run the program.
+To run the program:
 
 Download all the files(main.rb,rssData.rb ,rssManager.rb )and store them in a file(f)
 
